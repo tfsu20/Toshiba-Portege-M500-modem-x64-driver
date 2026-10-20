@@ -314,4 +314,4 @@ powershell -NoProfile -ExecutionPolicy Bypass -File .\Uninstall.ps1 -KeepPackage
 | `_backup\dev-enum.reg` | 安装前设备枚举键 `HKLM\SYSTEM\CurrentControlSet\Enum\HDAUDIO\...` |
 | `_backup\modem-class.reg` | 安装前 Modem 类键 `...\Control\Class\{4D36E96D-...}` 
 
-现已支持 Windows7 x64 ～ Windows11 x64
+### 驱动现已支持 Windows7 x64 ～ Windows11 x64
