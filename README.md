@@ -1,5 +1,8 @@
 # Toshiba-Portege-M500-modem-x64-driver
 由dsh编写，基于原有32位驱动而改的64位东芝PortegeM500调制解调器驱动
+
+----DSH.Drv.Build.Beta.Readme----
+
 # TOSHIBA PORTEGE M500 · Windows 10 x64 内置调制解调器驱动
 
 > 用本目录中的原厂驱动文件（LSI/Agere `TOSHIBA Software Modem 2.2.97`，微软 WHQL 签名）为
@@ -309,3 +312,5 @@ powershell -NoProfile -ExecutionPolicy Bypass -File .\Uninstall.ps1 -KeepPackage
 |---|---|
 | `_backup\dev-enum.reg` | 安装前设备枚举键 `HKLM\SYSTEM\CurrentControlSet\Enum\HDAUDIO\...` |
 | `_backup\modem-class.reg` | 安装前 Modem 类键 `...\Control\Class\{4D36E96D-...}` 
+
+现已支持 Windows7 x64 ～ Windows11 x64
