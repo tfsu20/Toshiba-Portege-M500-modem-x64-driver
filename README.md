@@ -2,13 +2,9 @@
 
 由dsh编写，基于原有32位驱动而改的64位东芝PortegeM500调制解调器驱动
 
+# ----DSH.Drv.Build.Beta.Readme----
 
-
-----DSH.Drv.Build.Beta.Readme----
-
-
-
-# TOSHIBA PORTEGE M500 · Windows 10 x64 内置调制解调器驱动
+TOSHIBA PORTEGE M500 · Windows 10 x64 内置调制解调器驱动
 
 > 用本目录中的原厂驱动文件（LSI/Agere `TOSHIBA Software Modem 2.2.97`，微软 WHQL 签名）为
 > **TOSHIBA PORTEGE M500** 制作并安装了一套在 **Windows 10 x64 19045** 上可正常工作的本机调制解调器驱动。
